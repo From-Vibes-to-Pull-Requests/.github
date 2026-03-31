@@ -1,4 +1,4 @@
-_Vibes to Pull Requests_ is a two half-day hands-on workshop taught by @jngo for designers who want to start coding with AI but aren’t sure where to begin.
+_Vibes to Pull Requests_ is a two half-day hands-on workshop taught by [John Ngo](https://smallepic.com) for designers who want to start coding with AI but aren’t sure where to begin.
 
 No experience required. If you’ve ever felt like the terminal, Git, or an IDE were barriers keeping you out of the codebase, this is for you.
 
