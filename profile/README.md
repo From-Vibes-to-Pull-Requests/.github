@@ -6,13 +6,15 @@ Over two half-days, you’ll go from zero to your first merged pull request in a
 
 ## Curriculum
 
-- Pre-Workshop Setup
-- Day One — Foundations
-	- Lesson 1 Terminal Basics
-	- Lesson 2 Orientation in Cursor
-	- Lesson 3 Git Basics
-	- Lesson 4 Review, Merge, & Deploy
-- Day Two — Studio
-	- Studio: First Full Loop
-	- Studio: Open Workshop
-	- Wrap Up
+- Pre-Workshop Setup — Get set up with the tools you’ll need (Node.js, GitHub, and Cursor)
+- Day One: Foundations
+  - Introduction
+  - Lesson 1: Terminal Basics — Demystify the terminal, run your first commands, and navigate the filesystem.
+  - Lesson 2: Orientation in Cursor — Get oriented in Cursor, clone a codebase, and use the agent to make changes.
+  - Lesson 3: Git Basics — Learn how code changes are tracked and merged: branch → commit → push → pull request.
+  - Lesson 4: Review, Merge, & Deploy — Review a pull request, merge it, and watch the change go live in production.
+- Day Two: Studio
+  - Opening
+  - Studio: First Full Loop — Run the full workflow end-to-end as a group: change, pull request, review, merge, deploy.
+  - Studio: Open Workshop — An open session to prototype and make changes freely, building confidence through reps and increasingly ambitious ideas.
+  - Wrap Up — Reflect on what you learned, how to keep going, and what’s next.
